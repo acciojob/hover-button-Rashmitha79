@@ -2,13 +2,10 @@
 /* Your CSS Code here. */
 #btn button{
 	background-color:black;
-	width:200px;
-	height:50px;
 	color:white;
 	border-radius:5px;
 	border:none;
-	font-size:2em;
-	type:submit;
+	font-size:1em;
 }
 	#btn button:hover {
   background-color: yellow;
